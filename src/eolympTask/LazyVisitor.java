@@ -14,7 +14,7 @@ public class LazyVisitor {
 				arr[i][0]= sc.nextInt();
 				arr[i][1]= sc.nextInt();			
 		}
-		
+		sc.close();
 		int count=0;		
 		for(int i = 0;i<arr.length;i++) {	
 			for(int j = arr[i][0];j<=arr[i][1];j++) {
