@@ -10,7 +10,8 @@ public class Task12 {
 				if(arr[i]==arr[j]) {
 				System.out.println(arr[i]);
 				
-				}j++;
+				}
+				j++;
 				if(j==arr.length-1) {
 					break;
 				}
