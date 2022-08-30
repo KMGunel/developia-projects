@@ -7,7 +7,7 @@ public class Task9 {
 	public static void main(String[] args) {
 		String[] arr = {"white","black","red","green","yellow"};
 		
-		insertElement(arr,4,"orange");
+		insertElement(arr,2,"orange");
 		System.out.println("Inserted!");
 		
 
