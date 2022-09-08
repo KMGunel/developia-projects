@@ -17,6 +17,7 @@ public class Main {
 		System.out.println(catanimal.species);
 		System.out.println(cat.foot);
 		System.out.println(cat.species);
+		System.out.println("_______________");
 		
 		
 	}
