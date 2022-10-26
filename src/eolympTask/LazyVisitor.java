@@ -39,7 +39,7 @@ public class LazyVisitor {
 		else {
 			System.out.println("Result = " + count);
 		}
-		
+		System.out.println("demo");
 		
 	}		
 }				
